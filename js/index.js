@@ -1,6 +1,4 @@
 
-    //小羊肖恩  
-
     var sheeps = {
         sPars:{
             frequency:70,
